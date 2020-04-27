@@ -65,7 +65,7 @@ Carthage is a simple, decentralized dependency manager for Cocoa.
 Specify TLPhotoPicker into your project's Cartfile:
 
 ```
-github "tilltue/TLPhotoPicker"
+github "imotoboy/TLPhotoPicker"
 ```
 
 
